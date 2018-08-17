@@ -1,0 +1,33 @@
+[{
+    "id":1,
+    "bname": "TheSecrefgdgdgdt",
+    "bauthor":"suraj",
+    "quantity":6,
+    "bprice":54,
+    "description": "description1"
+},
+{
+    "id":2,
+    "bname": "Book2",
+    "bauthor":"akash",
+    "quantity":6,
+    "bprice":54,
+    "description": "description2"
+},
+{
+    "id": 3,
+    "bname": "Book3",
+    "bauthor":"ranjiv",
+    "quantity":6,
+    "bprice":54,
+    "description": "description3"
+},
+{
+    "id": 4,
+    "bname": "Book4",
+    "bauthor":"radhe",
+    "quantity":6,
+    "bprice":54,
+    "description": "description4"
+}
+]
